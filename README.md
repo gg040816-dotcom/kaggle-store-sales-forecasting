@@ -131,9 +131,9 @@ School and Office Supplies is the clearest case. Back-to-school season in August
    - `sub_blend_B085.csv`.
 
 ```
-store-sales-forecasting/
+kaggle-store-sales-forecasting/
 ├── README.md
-├── notebooks/store_sales_forecasting.ipynb
+├── store_sales_forecasting.ipynb
 └── images/
     ├── version_history.png
     └── leaderboard.png
